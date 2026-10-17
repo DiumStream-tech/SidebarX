@@ -2,7 +2,7 @@
  * @name SidebarX
  * @description Transforms Discord's sidebar with a multi-column grid, styled folders, and animated notification rings.
  * @author DiumStream
- * @source https://github.com/DiumStream/SidebarX
+ * @source https://github.com/DiumStream-tech/SidebarX
  * @version 0.0.1
  */
 
