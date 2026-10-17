@@ -1,0 +1,13 @@
+node_modules/
+package-lock.json
+bugs.md
+files/*
+files
+suggestions.md
+src/*
+src
+src/styles.css
+src/index.js
+src/changelog.js
+package.json
+webpack.config.js
