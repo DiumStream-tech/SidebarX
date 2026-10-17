@@ -23,7 +23,7 @@ This plugin was coded with the help of AI.
 Because of this, it cannot be downloaded directly from the official BetterDiscord plugin list. BetterDiscord has strict rules and does not allow AI-generated code or readmes on their official website. That is why you have to download the file manually from this GitHub and put it in your plugins folder yourself.
 
 ## Features
-
+    
 * Grid layout for your servers.
 * Custom folder styles.
 * Animated rings for unread messages and pings (you can change the color and size in the plugin settings).
