@@ -3,7 +3,7 @@
  * @description Transforms Discord's sidebar with a multi-column grid, styled folders, and animated notification rings.
  * @author DiumStream
  * @source https://github.com/DiumStream/SidebarX
- * @version 1.0.0
+ * @version 0.0.1
  */
 
 /******/ (() => { // webpackBootstrap
@@ -30,7 +30,7 @@ __webpack_require__.r(__webpack_exports__);
   \*****************************/
 (module) {
 
-module.exports = /*#__PURE__*/JSON.parse('{"version":"1.0.0","title":"SidebarX","en":{"subtitle":"Initial Release","blurb":"A complete redesign of the server sidebar with a grid layout and custom notification rings.","changes":[{"title":"New Features","type":"added","items":["Multi-column grid layout for a modern server list.","Animated rainbow and neon notification rings.","Custom settings button with an active state next to the Home button.","Custom Home icon styling matching the grid aesthetic.","Refined folder and server icon styling."]}]},"fr":{"subtitle":"Version Initiale","blurb":"Une refonte complète de la barre latérale avec une grille et des anneaux de notification personnalisés.","changes":[{"title":"Nouveautés","type":"added","items":["Disposition en grille multi-colonnes pour une liste de serveurs moderne.","Anneaux de notification animés (arc-en-ciel et néon).","Bouton de paramètres personnalisé avec état actif à côté du bouton Accueil.","Style d\'icône d\'Accueil personnalisé s\'accordant à l\'esthétique de la grille.","Amélioration du style des dossiers et des icônes de serveurs."]}]}}');
+module.exports = /*#__PURE__*/JSON.parse('{"version":"0.0.1","title":"SidebarX","en":{"subtitle":"Initial Release","blurb":"A complete redesign of the server sidebar with a grid layout and custom notification rings.","changes":[{"title":"New Features","type":"added","items":["Multi-column grid layout for a modern server list.","Animated rainbow and neon notification rings.","Custom settings button with an active state next to the Home button.","Custom Home icon styling matching the grid aesthetic.","Refined folder and server icon styling."]}]},"fr":{"subtitle":"Version Initiale","blurb":"Une refonte complète de la barre latérale avec une grille et des anneaux de notification personnalisés.","changes":[{"title":"Nouveautés","type":"added","items":["Disposition en grille multi-colonnes pour une liste de serveurs moderne.","Anneaux de notification animés (arc-en-ciel et néon).","Bouton de paramètres personnalisé avec état actif à côté du bouton Accueil.","Style d\'icône d\'Accueil personnalisé s\'accordant à l\'esthétique de la grille.","Amélioration du style des dossiers et des icônes de serveurs."]}]}}');
 
 /***/ }
 
